@@ -12,7 +12,7 @@
 
 
 
-Numerous text-to-speech tools can read through books or pdf files, but few of them can handle academic literature. Mostly, academic writings have unique layouts. For example, there're double columns, in-line references, tables, charts, headers, and footers, which are hard for the traditional TTS tools to parse or filter out. Paper2Audio is an online app that can deal with those issues. The app delivers users an easy-to-use interface to upload and listen to the converted audio with a life-like voice.
+Numerous text-to-speech tools can read through books or pdf files, but few of them can handle academic literature. Mostly, academic writings have unique layouts. For example, there're double columns, in-line references, tables, charts, headers, and footers, which are hard for the traditional TTS tools to parse or filter out. Paper2Audio is an online app that can deal with those issues. The app delivers users an easy-to-use interface to upload and listen to the converted audio with a life-like voice. 
 
 This repo is the source code for the Academic Paper to Audio web app's frontend. Tech stacks used in the project:
 
