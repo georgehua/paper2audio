@@ -1,0 +1,25 @@
+### Node template
+# Logs
+/logs
+*.log
+
+# app folder
+app/node_modules/
+app/.env
+app/.nuxt
+app/dist
+app/.editorconfig
+app/jsconfig.json
+app/package-lock.json
+app/temp.vue
+
+museum*
+logo*
+bad-articles*
+ML-learn*
+auth.json
+
+# backend folder
+backend/__pycache__
+backend/.*
+backend
