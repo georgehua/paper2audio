@@ -6,7 +6,7 @@
           <h1 class="mb-4">Listen to academic papers</h1>
           <p>
             This app is designed for audiobook lovers to listen academic
-            writings. You can simply upload a paper in pdf format, and the app
+            literature. You can simply upload a paper in pdf format, and the app
             will automatically extract text that are suitable to read aloud and
             convert them to mp3 audio. Features of the app:
           </p>
