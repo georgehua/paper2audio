@@ -8,14 +8,26 @@
 
 
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [1. About Paper2Audio](#1-about-paper2audio)
+- [2. Specification](#2-specification)
+  - [2.1. Machine Learning Model Design](#21-machine-learning-model-design)
+  - [2.2. Application Design](#22-application-design)
+    - [2.2.1. Application Architecture](#221-application-architecture)
+    - [2.2.2. App Tech Stacks](#222-app-tech-stacks)
+- [3. Next Step](#3-next-step)
+- [4. Author](#4-author)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
 
 ## 1. About Paper2Audio
 
-Numerous text-to-speech tools can read through books or pdf files, but few of them can handle academic literature. Mostly, academic writings have unique layouts. For example, there're double columns, in-line references, tables, charts, headers, and footers, which are hard for the traditional TTS tools to parse or filter out. Paper2Audio is an online app that can deal with those issues. The app delivers users an easy-to-use interface to upload the papers, then enjoy listening to the converted audio in a breeze!
+Numerous text-to-speech tools can read through books or pdf files, but few can handle academic literature in the market because academic writings have unique layouts. For example, there're double columns, in-line references, tables, charts, headers, and footers. The traditional TTS tools are difficult to parse and filter out those unnecessary contents. Paper2Audio is a web app that can handle those troubles. The app delivers users an easy-to-use interface to upload the papers, and listen to the converted audio in a breeze!
 
 Paper2Audio URL: http://paper2audio.netlify.app/
 

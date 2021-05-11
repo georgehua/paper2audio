@@ -30,14 +30,6 @@
             <li>Free for all users</li>
           </ul>
 
-          <!-- <p>
-                  Traditional text-to-speech applications face challenges when
-                  handling documents with unique formats like academic writings.
-                  We design the app to solve the issue and provide a solution to
-                  programmatically extract the texts that are suitable to read
-                  aloud and convert them into an mp3 audio with a life-like
-                  synthetic voice powered by Amazon Polly.
-                </p> -->
           <div class="text-right mt-8">
             <v-btn large rounded color="primary" to="login"
               >Register & Get Started</v-btn
