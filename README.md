@@ -8,6 +8,11 @@
 
 
 
+<!-- START doctoc -->
+<!-- END doctoc -->
+
+
+
 ## 1. About Paper2Audio
 
 Numerous text-to-speech tools can read through books or pdf files, but few of them can handle academic literature. Mostly, academic writings have unique layouts. For example, there're double columns, in-line references, tables, charts, headers, and footers, which are hard for the traditional TTS tools to parse or filter out. Paper2Audio is an online app that can deal with those issues. The app delivers users an easy-to-use interface to upload the papers, then enjoy listening to the converted audio in a breeze!
@@ -16,15 +21,11 @@ Paper2Audio URL: http://paper2audio.netlify.app/
 
 
 
-## 2. Author
-
-My name is George Hua, and I'm the creator of the paper2audio. I'm enthusiastic about data science and web development. I specialize in machine learning, natural language processing, data mining, and digging insights from data. I enjoy exploring the world and solving real-world challenges with data-driven analysis. If you have questions or comments toward the project, you can reach me with my email: [georgehua.work@gmail.com](mailto:georgehua.work@gmail.com)
+## 2. Specification
 
 
 
-## 3. Specification
-
-### 3.1. Machine Learning Model
+### 2.1. Machine Learning Model Design
 
 The most important part of the project is a machine learning model that is used to filter `body text` and `garbage text`. The definition of the two terms are:
 
@@ -47,15 +48,15 @@ For achieving the goal of binary classification, the following procedures were d
 
 
 
-### 3.2. Application Design
+### 2.2. Application Design
 
-#### 3.2.1. Application Architecture
+#### 2.2.1. Application Architecture
 
 <img src="docs/figures/p2a architecture.svg"/>
 
 
 
-#### 3.2.2. App Tech Stacks
+#### 2.2.2. App Tech Stacks
 
 - Frontend:
   - Vue.js
@@ -73,13 +74,17 @@ For achieving the goal of binary classification, the following procedures were d
 
 
 
-## 4. Next Step
+## 3. Next Step
 
 - Collect data from more publisher to include different characteristics for ML model to learn
 - Design a payment system for users with a high monthly usage
 - Support more languages other than English
 
 
+
+## 4. Author
+
+Hello, my name is George Hua, and I'm the creator of paper2audio. I'm enthusiastic about machine learning and natural language processing. If you have questions or comments toward the project, feel free to reach me with my email: [georgehua.work@gmail.com](mailto:georgehua.work@gmail.com)
 
 
 
