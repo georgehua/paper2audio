@@ -31,9 +31,7 @@
           </ul>
 
           <div class="text-right mt-8">
-            <v-btn large rounded color="primary" to="login"
-              >Register & Get Started</v-btn
-            >
+            <v-btn large rounded color="primary" to="login">Get Started</v-btn>
           </div>
         </v-card>
       </v-col>
