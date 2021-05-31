@@ -1,6 +1,6 @@
 # Academic Paper to Audio
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d4d307a8-0bb8-471c-93ac-f20d388af6a6/deploy-status)](https://app.netlify.com/sites/paper2audio/deploys)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=georgehua.paper2audio.readme)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d4d307a8-0bb8-471c-93ac-f20d388af6a6/deploy-status)](https://app.netlify.com/sites/paper2audio/deploys)
 
 
 
